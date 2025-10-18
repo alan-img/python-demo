@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="D:\dev\anaconda" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.6.8 (sftp://root@hadoop100:22/usr/bin/python3)" project-jdk-type="Python SDK" />
 </project>
